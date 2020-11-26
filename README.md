@@ -11,3 +11,7 @@
 8. 핫도그 hasdogeu : Hotdog
 9. 베이컨 beikeon : Bacon
 10. 파스타 beikeon : Pasta
+11. 햄버거 haembeogeo : Hamburger
+12. 햄 haem : Ham
+13. 고기 gogi : Meat
+14. 피자 pija ： Pizza
