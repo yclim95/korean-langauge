@@ -15,18 +15,32 @@
 2. ㄹ (R/L)
    1. 리 (RI)
    2. 을 (EUL)
+   3. **Initial Consonant**: More like 'R'
+   4. **Final Consonant**: More like 'I'
 3. ㄷ (D/T(Variation))
    1. 디 (DI)
    2. 귿 (GEUT)
+   3. **Word Initial Pronunciation**: T
+   4. **Other Pronunciation**: T or D
+   5. 2 Other Variations (Tense Consonant & Aspirated Consonant)
 4. ㅅ (S/SH/T(Variation))
    1. 시 (SI)
    2. 옷 (OT)
+   3. **Before the 5 VOWELs ㅣ, ㅛ, ㅠ, ㅑ & ㅕ**: SH
+   4. **Before any other Vowels**: S
+   5. 1 Other variation (Tense Consonants): T
 5. ㅈ (CH/J/T(Variation))
    1. 지 (JI)
    2. 읒 (EUT)
+   3. **Word Initial Pronunciation**: CH
+   4. **Other Pronunciation**: CH or J
+   5. 2 Other Variations (Tense Consonant & Aspirated Consonant): T
 6. ㄱ (G/K)
    1.  기 (GI)
    2.  역 (YEOK)
+   3. **Word Initial Pronunciation**: K
+   4. **Other Pronunciation**: K or G
+   5. 2 Other Variations (Tense Consonant & Aspirated Consonant): T
 7. ㅇ (NG - 'ng' in song)
    1. 이 (I)
    2. 응 (EUNG)
@@ -39,6 +53,8 @@
 10. ᆸ (B/P)
     1. 비 (BI)
     2. 읍 (EUP)
+    3. **Word Initial Pronunciation**: P
+    4. **Other Pronunciation**: P or B
 
 ## Food
 1. 생선 saengseon : Fish
