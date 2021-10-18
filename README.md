@@ -10,29 +10,29 @@
 
 ## 2. Vowel (Basic)
 1. ㄴ (N - 'n' in nose)
-   1. 니
-   2. 은
+   1. 니 (NI)
+   2. 은 (EUN)
 2. ㄹ (R/L)
-   1. 리
-   2. 을
+   1. 리 (RI)
+   2. 을 (EUL)
 3. ㄷ (D/T(Variation))
-   1. 디
-   2. 귿
+   1. 디 (DI)
+   2. 귿 (GEUT)
 4. ㅅ (S/SH/T(Variation))
-   1. 시
-   2. 옷
+   1. 시 (SI)
+   2. 옷 (OT)
 5. ㅈ (CH/J/T(Variation))
-   1. 지
-   2. 읒
+   1. 지 (JI)
+   2. 읒 (EUT)
 6. ㄱ (G/K)
-   1.  기
-   2.  역
+   1.  기 (GI)
+   2.  역 (YEOK)
 7. ㅇ (NG - 'ng' in song)
-   1.이
-   2.응
+   1. 이 (I)
+   2. 응 (EUNG)
 8. ᇂ (H/T(Variation) - 'h' in hope)
-   1. 히
-   2. 읗
+   1. 히 (HI)
+   2. 읗 (EUT)
 9. ㅁ (M - 'm' in man)
    1. 미 (MI)
    2. 므 (EU)
